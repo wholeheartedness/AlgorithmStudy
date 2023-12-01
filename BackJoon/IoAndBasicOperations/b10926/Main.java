@@ -35,9 +35,9 @@ public class Main {
         String site = user;
 
         if (user.length() > 50) {
-            throw new ArrayIndexOutOfBoundsException("ID가 너무 길어요");
+            throw new ArrayIndexOutOfBoundsException(" ID가 너무 길어요");
         } else if (!user.equals(user.toLowerCase())) {
-            throw new ArrayIndexOutOfBoundsException("소문자만 입력하세요");
+            throw new ArrayIndexOutOfBoundsException(" 소문자만 입력하세요");
         } else {
             System.out.println(user + "??!");
         }
