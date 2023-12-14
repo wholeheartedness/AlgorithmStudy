@@ -20,7 +20,7 @@ QR Code "alphanumeric" 문자는 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\$%*+-./: �
 AAABBBCCC
 /////HHHHHTTTTTPPPPP
  */
-package b2675;
+package String.b2675;
 
 import java.io.BufferedReader;
 import java.io.IOException;
