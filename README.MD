@@ -3,7 +3,7 @@
 | 📆-Week        | 🔵Mon | 🔵Tue | 🔵Wed | 🔵Thr | 🔵Fri |
 | ------------- | ---- | ---- | ---- | ---- | ---- |
 | 2023-12-1WEEK | ✅    | ✅    | ✅    | ✅    | ✅    |
-| 2023-12-2WEEK | ❌    | ✅    | ✅    | ✅    |      |
+| 2023-12-2WEEK | ❌    | ✅    | ✅    | ✅    | ✅     |
 
 <br>
 
@@ -11,21 +11,22 @@
 
 ## 🖥️ 백준
 
-| 분류               | 번호  | 제목                                                         | 풀이 날짜 | 풀이                                                         | 다른풀이                                                     |
-| ------------------ | ----- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 문자열             | 9086  | [문자열](https://www.acmicpc.net/problem/9086)               | 23-12-14  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/String/b9086/Main.java) |                                                              |
-| 구현               | 10810 | [공 넣기](https://www.acmicpc.net/problem/10810)             | 23-12-14  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/implement/b10810/Main.java) |                                                              |
-| 구현               | 25314 | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314)) | 23-12-13  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/implement/b25314/Main.java) |                                                              |
-| 구현, 문자열       | 2675  | [문자열 반복](https://www.acmicpc.net/problem/2675)          | 23-12-12  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/String/b2675/Main.java) |                                                              |
-| 반복문             | 11021 | [A + B - 7](http://boj.kr/11021)                             | 23-12-07  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Loop_State/b11021/Main.java) |                                                              |
-| 반복문             | 25304 | [영수증](http://boj.kr/25304)                                | 23-12-05  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Loop_State/b25304/Main.java) |                                                              |
-| 조건문             | 1330  | [두 수 비교하기](http://boj.kr/1330)                         | 23-12-00  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Conditional/b1330/Main.java) |                                                              |
-| 조건문             | 2480  | [주사위 세개](http://boj.kr/2480)                            | 23-12-00  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Conditional/b2480/Main.java) |                                                              |
-| 조건문             | 9498  | [시험 성적](http://boj.kr/9498)                              | 23-12-00  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/StudyWeek/Week2_12_2/b9498/Main.java) |                                                              |
-| 입출력과 연산      | 2588  | [곱셈](http://boj.kr/2588)                                   | 23-12-00  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/IoAndBasicOperations/b2588/Main.java) |                                                              |
-| 입출력과 연산      | 10869 | [사칙연산](http://boj.kr/10869)                              | 23-12-00  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/IoAndBasicOperations/b10869/Main.java) |                                                              |
-| 입출력과 연산      | 10926 | [??!](http://boj.kr/10926)                                   | 23-12-00  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/IoAndBasicOperations/b10926/Main.java) |                                                              |
-| 구현, 자료구조, 큐 | 1158  | [요세푸스 문제](http://boj.kr/1158)                          | X         | X                                                            | [📝](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Conditional/b1158/Main_Lecture.java) |
+| 분류          | 번호    | 제목                                                    | 풀이 날짜    | 풀이                                                         | 다른풀이                                                     |
+|-------------|-------|-------------------------------------------------------|----------| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 구현, 시뮬레이션   | 10811 | [바구니 뒤집기](https://www.acmicpc.net/problem/10811)       | 23-12-15 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/String/b9086/Main.java) |                                                              |
+| 문자열         | 9086  | [문자열](https://www.acmicpc.net/problem/9086)           | 23-12-14 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/tree/main/BaekJoon/String/b10811) |                                                              |
+| 구현          | 10810 | [공 넣기](https://www.acmicpc.net/problem/10810)         | 23-12-14 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/implement/b10810/Main.java) |                                                              |
+| 구현          | 25314 | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) | 23-12-13 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/implement/b25314/Main.java) |                                                              |
+| 구현, 문자열     | 2675  | [문자열 반복](https://www.acmicpc.net/problem/2675)        | 23-12-12 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/String/b2675/Main.java) |                                                              |
+| 반복문         | 11021 | [A + B - 7](http://boj.kr/11021)                      | 23-12-07 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Loop_State/b11021/Main.java) |                                                              |
+| 반복문         | 25304 | [영수증](http://boj.kr/25304)                            | 23-12-05 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Loop_State/b25304/Main.java) |                                                              |
+| 조건문         | 1330  | [두 수 비교하기](http://boj.kr/1330)                        | 23-12-00 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Conditional/b1330/Main.java) |                                                              |
+| 조건문         | 2480  | [주사위 세개](http://boj.kr/2480)                          | 23-12-00 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Conditional/b2480/Main.java) |                                                              |
+| 조건문         | 9498  | [시험 성적](http://boj.kr/9498)                           | 23-12-00 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/StudyWeek/Week2_12_2/b9498/Main.java) |                                                              |
+| 입출력과 연산     | 2588  | [곱셈](http://boj.kr/2588)                              | 23-12-00 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/IoAndBasicOperations/b2588/Main.java) |                                                              |
+| 입출력과 연산     | 10869 | [사칙연산](http://boj.kr/10869)                           | 23-12-00 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/IoAndBasicOperations/b10869/Main.java) |                                                              |
+| 입출력과 연산     | 10926 | [??!](http://boj.kr/10926)                            | 23-12-00 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/IoAndBasicOperations/b10926/Main.java) |                                                              |
+| 구현, 자료구조, 큐 | 1158  | [요세푸스 문제](http://boj.kr/1158)                         | X        | X                                                            | [📝](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Conditional/b1158/Main_Lecture.java) |
 
 <br>  
 
