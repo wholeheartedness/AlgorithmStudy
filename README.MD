@@ -43,16 +43,3 @@
 | Challenges | 181938 | [두수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938) | 23-12-06  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181938/Solution.java) |          |
 | Challenges | 181939 | [더크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | 23-12-06  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181939/Solution.java) |          |
 | Challenges | 181945 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | 23-12-06  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181945/Solution.java) |          |
-
-|      |      |      |      |      |      |
-|------------|--------|----------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-|      |      |      |      |      |      |
-|      |      |      |      |      |      |
-|      |      |      |      |      |      |
-|      |      |      |      |      |      |
-|      |      |      |      |      |      |
-|      |      |      |      |      |      |
-|      |      |      |      |      |      |
-|      |      |      |      |      |      |
-|      |      |      |      |      |      |
-|      |      |      |      |      ||
