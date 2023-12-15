@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IoAndBasicOperations.iml" filepath="$PROJECT_DIR$/IoAndBasicOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String.iml" filepath="$PROJECT_DIR$/String.iml" />
     </modules>
   </component>
 </project>

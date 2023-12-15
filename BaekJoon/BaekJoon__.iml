@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/IoAndBasicOperations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Loop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Loop_State" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/implement" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
