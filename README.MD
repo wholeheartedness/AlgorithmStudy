@@ -4,7 +4,7 @@
 |--------| ---- | ---- | ---- | ---- | ---- |----|----|
 | 23-12-1WEEK | ✅    | ✅    | ✅    | ✅    | ✅    | 🧘 | 🧘 |
 | 23-12-2WEEK | ❌    | ✅    | ✅    | ✅    | ✅     | ✅  |🧘 |
-| 23-12-3WEEK | ✅    |    |    |     |      |   | |
+| 23-12-3WEEK | ✅    |  ✅  |  ✅  |     |      |   | |
 
 [//]: # (| --WEEK |     |    |    |     |      |   | |)
 
@@ -16,7 +16,9 @@
 
 | 분류        | 번호    | 제목                                                    | 풀이 날짜    | 풀이                                                         | 다른풀이                                                     |
 |-----------|-------|-------------------------------------------------------|----------| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 정렬, 문자열   | 1181  | [단어 정렬](https://www.acmicpc.net/problem/1181)        | 23-12-18 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/String/b1181/Main.java) |  |
+| 2차원 배열    | 2738  | [행렬 덧셈](https://www.acmicpc.net/problem/2738)         | 23-12-20 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Two-Demensional-Array/b2738/Main.java) |  |
+| 구현, 문자열   | 1157  | [단어 공부](https://www.acmicpc.net/problem/1157)         | 23-12-19 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/implement/b1157/Main.java) |  |
+| 정렬, 문자열   | 1181  | [단어 정렬](https://www.acmicpc.net/problem/1181)         | 23-12-18 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/String/b1181/Main.java) |  |
 | 구현, 문자열   | 10798 | [세로 읽기](https://www.acmicpc.net/problem/10798)        | 23-12-16 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/String/b10798/Main.java) |  |
 | 구현, 문자열   | 10988 | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)  | 23-12-15 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/String/b10988/Main.java) | [📝](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/String/b10988/otherSolution.java) |
 | 구현, 시뮬레이션 | 10811 | [바구니 뒤집기](https://www.acmicpc.net/problem/10811)      | 23-12-15 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/String/b10811/Main.java) |                                                              |
