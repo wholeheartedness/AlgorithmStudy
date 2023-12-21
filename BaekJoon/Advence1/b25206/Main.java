@@ -65,9 +65,60 @@ ProblemSolving 4.0 P
 package b25206;
 
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Main {
-    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        // 배열에 학점과 등급을 넣는다
+        double[][] arr = new double[20][2];
+        int 신청학점 = 0;
+        for (int i = 0; i < 20; i++) {
+            String[] line = br.readLine().split(" ");
+            arr[i][0] = Double.parseDouble(line[1]); //학점
+            double ss = 0;
+            switch (line[2]) {
+                case "A+" : ss = 4.5d;
+                break;
+                case "A0" : ss = 4.0d;
+                    break;
+                case "B+" : ss = 3.5d;
+                    break;
+                case "B0" : ss = 3.0d;
+                    break;
+                case "C+" : ss = 2.5d;
+                    break;
+                case "C0" : ss = 2.0d;
+                    break;
+                case "D+" : ss = 1.5d;
+                    break;
+                case "D0" : ss = 1.0d;
+                    break;
+                case "F" : ss = 0.0d;
+                    break;
+                case "P" : {
+                    arr[i][0] = 0;
+                    ss = 0;
+                }
+            }
+            arr[i][1] = ss; //과목평점
+            신청학점 += arr[i][0];
+        }
 
+        double sum = 0;
+
+        // 전공 과목별 학점 : 학점*과목평점 + .. + 학점*과목평점
+        // 전공평점 : (학점*과목평점 + .. + 학점*과목평점) / 학점
+        // 배열에 arr[i][1] 이 P인 것은 계산에 넣지 않는다
+            //notcnt ++ 한다. 그리고 나눌 때 (20-notcnt)
+
+        for (int i = 0; i < 20; i++) {
+            double lecture = arr[i][0]*arr[i][1];
+            sum += lecture;
+
+        }
+
+        System.out.println(sum/(신청학점));
+    }
 }
