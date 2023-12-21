@@ -4,7 +4,7 @@
 |--------| ---- | ---- | ---- |-------| ---- |----|----|
 | 23-12-1WEEK | ✅    | ✅    | ✅    | ✅     | ✅    | 🧘 | 🧘 |
 | 23-12-2WEEK | ❌    | ✅    | ✅    | ✅     | ✅     | ✅  |🧘 |
-| 23-12-3WEEK | ✅    |  ✅  |  ✅  |       |      |   | |
+| 23-12-3WEEK | ✅    |  ✅  |  ✅  |   ✅    |      |   | |
 
 [//]: # (| --WEEK |     |    |    |     |      |   | |)
 
@@ -16,6 +16,7 @@
 
 | 분류        | 번호    | 제목                                                    | 풀이 날짜    | 풀이                                                         | 다른풀이                                                     |
 |-----------|-------|-------------------------------------------------------|----------| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 심화 1      | 25206  | [너의 평점은](https://www.acmicpc.net/problem/25206)       | 23-12-21 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Advence1/b25206/Main.java) |  |
 | 2차원 배열    | 2566  | [최댓값](https://www.acmicpc.net/problem/2566)           | 23-12-20 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Two-Demensional-Array/b2566/Main.java) |  |
 | 2차원 배열    | 2738  | [행렬 덧셈](https://www.acmicpc.net/problem/2738)         | 23-12-20 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Two-Demensional-Array/b2738/Main.java) |  |
 | 구현, 문자열   | 1157  | [단어 공부](https://www.acmicpc.net/problem/1157)         | 23-12-19 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/implement/b1157/Main.java) |  |
