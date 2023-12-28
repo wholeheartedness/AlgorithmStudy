@@ -1,10 +1,11 @@
 # 👩‍💻 1Day-1Algorithm Challenge : 전심
 
-| 📆Week | 🔵Mon | 🔵Tue | 🔵Wed | 🔵Thr | 🔵Fri | 🟠Sat | 🟠Sun |
-|--------| ---- | ---- | ---- |-------| ---- |----|----|
-| 23-12-1WEEK | ✅    | ✅    | ✅    | ✅     | ✅    | 🧘 | 🧘 |
-| 23-12-2WEEK | ❌    | ✅    | ✅    | ✅     | ✅     | ✅  |🧘 |
-| 23-12-3WEEK | ✅    |  ✅  |  ✅  |   ✅    |  ✅    |   | |
+| 📆Week | 🔵Mon | 🔵Tue | 🔵Wed | 🔵Thr | 🔵Fri |
+|--------| ---- | ---- | ---- |-------| ---- |
+| 23-12-1WEEK | ✅    | ✅    | ✅    | ✅     | ✅    |
+| 23-12-2WEEK | ❌    | ✅    | ✅    | ✅     | ✅     |
+| 23-12-3WEEK | ✅    |  ✅  |  ✅  |   ✅    |  ✅    |
+| 23-12-4WEEK | 🎅 | ✅ |  |  |  |
 
 [//]: # (| --WEEK |     |    |    |     |      |   | |)
 
@@ -16,6 +17,8 @@
 
 | 분류      | 번호    | 제목                                                    | 풀이 날짜    | 풀이                                                         | 다른풀이                                                     |
 |---------|-------|-------------------------------------------------------|----------| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 배수와 약수 | 5086 | [배수와 약수](https://www.acmicpc.net/problem/5086) | 23-12-27 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/divisor_multiple_decimal/b5086/Main.java) |  |
+| 일반 수학 1 | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 23-12-26 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b2869/Main.java) |  |
 | 일반 수학 1 | 2745  | [진법 변환](https://www.acmicpc.net/problem/2745)         | 23-12-22 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b2745/Main.java) |  |
 | 일반 수학 1 | 2720  | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)     | 23-12-22 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b2720/Main.java) |  |
 | 심화 1    | 2941  | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)     | 23-12-22 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Advence1/b2941/Main.java) | [📝](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Advence1/b2941/otherSolution.java) |
@@ -44,15 +47,15 @@
 
 ## 🖥️ 프로그래머스
 
-| 분류       | 번호   | 제목                                                         | 풀이 날짜 | 풀이                                                         | 다른풀이 |
-| ---------- | ------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | -------- |
-| Challenges | 181886 | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | 23-12-08  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181886/Solution.java) |          |
-| Challenges | 181894 | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894) | 23-12-08  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181894/Solution.java) |          |
-| Challenges | 181899 | [카운트다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | 23-12-08  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181899/Solution.java) |          |
-| Challenges | 181903 | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903) | 23-12-08  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181903/Solution.java) |          |
-| Challenges | 181925 | [수조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | 23-12-07  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181925/Solution.java) |          |
-| Challenges | 181928 | [이어붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | 23-12-07  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181928/Solution.java) |          |
-| Challenges | 181936 | [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | 23-12-07  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181936/Solution.java) |          |
-| Challenges | 181938 | [두수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938) | 23-12-06  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181938/Solution.java) |          |
-| Challenges | 181939 | [더크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | 23-12-06  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181939/Solution.java) |          |
-| Challenges | 181945 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | 23-12-06  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181945/Solution.java) |          |
+| 분류         | 번호   | 제목                                                         | 풀이 날짜 | 풀이                                                         | 다른풀이 |
+|------------| ------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | -------- |
+| Lv.0 | 181886 | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | 23-12-08  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181886/Solution.java) |          |
+| Lv.0 | 181894 | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894) | 23-12-08  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181894/Solution.java) |          |
+| Lv.0 | 181899 | [카운트다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | 23-12-08  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181899/Solution.java) |          |
+| Lv.0 | 181903 | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903) | 23-12-08  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181903/Solution.java) |          |
+| Lv.0 | 181925 | [수조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | 23-12-07  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181925/Solution.java) |          |
+| Lv.0 | 181928 | [이어붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | 23-12-07  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181928/Solution.java) |          |
+| Lv.0 | 181936 | [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | 23-12-07  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181936/Solution.java) |          |
+| Lv.0 | 181938 | [두수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938) | 23-12-06  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181938/Solution.java) |          |
+| Lv.0 | 181939 | [더크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | 23-12-06  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181939/Solution.java) |          |
+| Lv.0 | 181945 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | 23-12-06  | [🔗]( https://github.com/wholeheartedness/AlgorithmStudy/blob/main/Programmers/Challenges/p181945/Solution.java) |          |
