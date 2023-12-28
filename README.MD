@@ -5,7 +5,7 @@
 | 23-12-1WEEK | ✅    | ✅    | ✅    | ✅     | ✅    |
 | 23-12-2WEEK | ❌    | ✅    | ✅    | ✅     | ✅     |
 | 23-12-3WEEK | ✅    |  ✅  |  ✅  |   ✅    |  ✅    |
-| 23-12-4WEEK | 🎅 | ✅ |  |  |  |
+| 23-12-4WEEK | 🎅 | ✅ | ✅ | ✅ |  |
 
 [//]: # (| --WEEK |     |    |    |     |      |   | |)
 
@@ -17,6 +17,7 @@
 
 | 분류      | 번호    | 제목                                                    | 풀이 날짜    | 풀이                                                         | 다른풀이                                                     |
 |---------|-------|-------------------------------------------------------|----------| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 배수와 약수 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | 23-12-28 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/divisor_multiple_decimal/b1978/Main.java) |  |
 | 배수와 약수 | 5086 | [배수와 약수](https://www.acmicpc.net/problem/5086) | 23-12-27 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/divisor_multiple_decimal/b5086/Main.java) |  |
 | 일반 수학 1 | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 23-12-26 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b2869/Main.java) |  |
 | 일반 수학 1 | 2745  | [진법 변환](https://www.acmicpc.net/problem/2745)         | 23-12-22 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b2745/Main.java) |  |
