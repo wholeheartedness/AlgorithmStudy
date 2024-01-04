@@ -6,7 +6,7 @@
 | 23-12-2WEEK | ❌     | ✅    | ✅    | ✅     | ✅     |
 | 23-12-3WEEK | ✅     |  ✅  |  ✅  |   ✅    | ✅     |
 | 23-12-4WEEK | 🎅    | ✅ | ✅ | ✅ | ❌     |
-| 24-01-1WEEK | 🌅    | ✅ | ✅ |  |      |
+| 24-01-1WEEK | 🌅    | ✅ | ✅ | ✅ |      |
 
 [//]: # (| --WEEK |     |    |    |     |      |   | |)
 
@@ -18,6 +18,7 @@
 
 | 분류      | 번호    | 제목                                                    | 풀이 날짜    | 풀이                                                         | 다른풀이                                                     |
 |---------|-------|-------------------------------------------------------|----------| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 일반 수학 1 | 2903  | [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)    | 24-01-04 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b2903/Main.java) |  |
 | 일반 수학 1 | 11005 | [진법 변환 2](https://www.acmicpc.net/problem/11005)      | 24-01-03 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b11005/Main.java) |  |
 | 일반 수학 1 | 2292  | [벌집](https://www.acmicpc.net/problem/2292)            | 24-01-02 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b2292/Main.java) |  |
 | 배수와 약수  | 1978  | [소수 찾기](https://www.acmicpc.net/problem/1978)         | 23-12-28 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/divisor_multiple_decimal/b1978/Main.java) |  |
