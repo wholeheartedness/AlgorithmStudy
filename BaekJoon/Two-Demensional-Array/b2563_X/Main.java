@@ -1,3 +1,8 @@
+/*
+🖥️[2차원 배열] 2563번 문제 : 색종이
+🖥️https://www.acmicpc.net/problem/2563
+
+ */
 package b2563_X;
 
 import java.io.BufferedReader;
