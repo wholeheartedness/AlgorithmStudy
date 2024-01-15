@@ -1,13 +1,14 @@
 # 👩‍💻 1Day-1Algorithm Challenge : 전심
 
 | 📆Week      | 🔵Mon | 🔵Tue | 🔵Wed | 🔵Thr | 🔵Fri |
-|-------------|-------| --- | --- |------|------|
-| 23-12-1WEEK | ✅     | ✅   | ✅   | ✅    | ✅    |
-| 23-12-2WEEK | ❌     | ✅   | ✅   | ✅    | ✅    |
-| 23-12-3WEEK | ✅     |  ✅ |  ✅ |   ✅   | ✅    |
-| 23-12-4WEEK | 🎅    | ✅ | ✅ | ✅ | ❌    |
-| 24-01-1WEEK | 🌅    | ✅ | ✅ | ✅ |  ✅   |
-| 24-02-1WEEK | ✅    |  |  |  |      |
+|-------------|-------|-------|-------|-------|-------|
+| 23-12-1WEEK | ✅     | ✅     | ✅     | ✅     | ✅     |
+| 23-12-2WEEK | ❌     | ✅     | ✅     | ✅     | ✅     |
+| 23-12-3WEEK | ✅     | ✅     | ✅     | ✅     | ✅     |
+| 23-12-4WEEK | 🎅    | ✅     | ✅     | ✅     | ❌     |
+| 24-01-1WEEK | 🌅    | ✅     | ✅     | ✅     | ✅     |
+| 24-01-2WEEK | 프     | 로     | 젝     | 트     | 주     |
+| 24-01-3WEEK | ✅     |       |       |       |       |
 
 
 [//]: # (| --WEEK |     |    |    |     |      |   | |)
@@ -20,6 +21,7 @@
 
 | 분류      | 번호    | 제목                                                    | 풀이 날짜    | 풀이                                                         | 다른풀이                                                     |
 |---------|-------|-------------------------------------------------------|----------| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 배수와 약수  | 2501  | [약수 구하기](https://www.acmicpc.net/problem/2501)        | 24-01-15 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/divisor_multiple_decimal/b2501/Main.java) |  |
 | 일반 수학 1 | 2903  | [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)    | 24-01-04 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b2903/Main.java) |  |
 | 일반 수학 1 | 11005 | [진법 변환 2](https://www.acmicpc.net/problem/11005)      | 24-01-03 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b11005/Main.java) |  |
 | 일반 수학 1 | 2292  | [벌집](https://www.acmicpc.net/problem/2292)            | 24-01-02 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Math1/b2292/Main.java) |  |
