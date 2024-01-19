@@ -57,7 +57,7 @@ public class Main {
         for (int i = 2; N >= 2 ; i++) {
             while (N % i < 1) {
                 N = N / i;
-                System.out.println(i);
+                System.out.println( i);
             }
         }
 
