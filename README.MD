@@ -9,7 +9,7 @@
 | 24-01-1WEEK | 🌅    | ✅     | ✅     | ✅     | ✅     |
 | 24-01-2WEEK | 프     | 로     | 젝     | 트     | 주     |
 | 24-01-3WEEK | ✅     |  ✅     |    ✅  |   ✅   |   ✅   |
-| 24-01-4WEEK | ✅     |  ✅     |       |       |       |
+| 24-01-4WEEK | ✅     |  ✅     |   ✅    |       |       |
 
 
 [//]: # (| --WEEK |     |    |    |     |      |   | |)
@@ -22,7 +22,8 @@
 
 | 분류            | 번호    | 제목                                                    | 풀이 날짜    | 풀이                                                                                                                   | 다른풀이                                                     |
 |---------------|-------|-------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------ |
-| 기하: 직사각형과 삼각형 | 1085  | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)         | 24-01-23 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Geometry_Rectangle_Triangle/b1085/Main.java) |  |
+| 기하: 직사각형과 삼각형 | 15894 | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) | 24-01-24 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Geometry_Rectangle_Triangle/b15894/Main.java) |  |
+| 기하: 직사각형과 삼각형 | 1085  | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)     | 24-01-23 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Geometry_Rectangle_Triangle/b1085/Main.java) |  |
 | 기하: 직사각형과 삼각형 | 3009  | [네번째 점](https://www.acmicpc.net/problem/3009)         | 24-01-22 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Geometry_Rectangle_Triangle/b3009/Main.java) |  |
 | 배수와 약수2       | 1934  | [최소공배수](https://www.acmicpc.net/problem/1934)         | 24-01-19 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/divisor_multiple_decimal_2/b1934/Main.java) |  |
 | 배수와 약수        | 2581  | [소수](https://www.acmicpc.net/problem/2581)            | 24-01-18 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/divisor_multiple_decimal/b2581/Main.java) |  |
