@@ -9,7 +9,7 @@
 | 24-01-1WEEK | 🌅    | ✅     | ✅     | ✅     | ✅     |
 | 24-01-2WEEK | 프     | 로     | 젝     | 트     | 주     |
 | 24-01-3WEEK | ✅     |  ✅     |    ✅  |   ✅   |   ✅   |
-| 24-01-4WEEK | ✅     |  ✅     |   ✅    |   ✅    |       |
+| 24-01-4WEEK | ✅     |  ✅     |   ✅    |   ✅    |   ✅    |
 
 
 [//]: # (| --WEEK |     |    |    |     |      |   | |)
@@ -22,6 +22,7 @@
 
 | 분류            | 번호    | 제목                                                    | 풀이 날짜    | 풀이                                                                                                                   | 다른풀이                                                     |
 |---------------|-------|-------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------ |
+| 기하: 직사각형과 삼각형 | 5073  | [삼각형과 세변](https://www.acmicpc.net/problem/5073)       | 24-01-26 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Geometry_Rectangle_Triangle/b5073/Main.java) |  |
 | 기하: 직사각형과 삼각형 | 9063  | [대지](https://www.acmicpc.net/problem/9063)            | 24-01-25 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Geometry_Rectangle_Triangle/b9063/Main.java) |  |
 | 기하: 직사각형과 삼각형 | 15894 | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) | 24-01-24 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Geometry_Rectangle_Triangle/b15894/Main.java) |  |
 | 기하: 직사각형과 삼각형 | 1085  | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)     | 24-01-23 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/Geometry_Rectangle_Triangle/b1085/Main.java) |  |
