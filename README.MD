@@ -10,7 +10,7 @@
 | 24-01-2WEEK | 프     | 로     | 젝     | 트     | 주     |
 | 24-01-3WEEK | ✅     |  ✅     |    ✅  |   ✅   |   ✅   |
 | 24-01-4WEEK | ✅     |  ✅     |   ✅    |   ✅    |   ✅    |
-| 24-01-5WEEK | ✅     |  ✅     |   ✅    |       |       |
+| 24-01-5WEEK | ✅     |  ✅     |   ✅    |    ✅   |       |
 
 
 [//]: # (| --WEEK |     |    |    |     |      |   | |)
@@ -23,7 +23,8 @@
 
 | 분류            | 번호    | 제목                                                    | 풀이 날짜    | 풀이                                                                                                                       | 다른풀이                                                     |
 |---------------|-------|-------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------ |
-| 시간복잡도         | 24267 | [알고리즘의 수행시간 6](https://www.acmicpc.net/problem/24267) | 24-01-31  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/TimeComplexity/b24267/Main.java)              |  |
+| 시간복잡도         | 24313 | [점근적 표기 1](https://www.acmicpc.net/problem/24313)     | 24-02-1  | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/TimeComplexity/b24313/Main.java)              |  |
+| 시간복잡도         | 24267 | [알고리즘의 수행시간 6](https://www.acmicpc.net/problem/24267) | 24-01-31 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/TimeComplexity/b24267/Main.java)              |  |
 | 시간복잡도         | 24266 | [알고리즘의 수행시간 5](https://www.acmicpc.net/problem/24266) | 24-01-31 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/TimeComplexity/b24266/Main.java)              |  |
 | 시간복잡도         | 24265 | [알고리즘의 수행시간 4](https://www.acmicpc.net/problem/24265) | 24-01-30 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/TimeComplexity/b24265/Main.java)              |  |
 | 시간복잡도         | 24264 | [알고리즘의 수행시간 3](https://www.acmicpc.net/problem/24264) | 24-01-29 | [🔗](https://github.com/wholeheartedness/AlgorithmStudy/blob/main/BaekJoon/TimeComplexity/b24264/Main.java)              |  |
